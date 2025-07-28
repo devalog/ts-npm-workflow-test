@@ -1,6 +1,6 @@
 {
     "name": "devin-package-testing",
-    "version": "0.1.5",
+    "version": "0.1.7",
     "private": false,
     "repository": "github:devalog/ts-npm-workflow-test",
     "type": "commonjs",
